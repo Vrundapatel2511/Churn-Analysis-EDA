@@ -28,5 +28,13 @@ Customer churn analysis is a data-driven project that focuses on understanding a
 - Matplotlib
 - Scikit-learn
 
+# Key Features
+
+- Data preprocessing and cleaning for accurate analysis.
+- Comprehensive exploratory data analysis (EDA) to uncover insights.
+- Utilization of data visualization to communicate findings effectively.
+- Machine learning models for predictive churn analysis.
+- Recommendations and strategies for reducing churn rates.
+
 # Contact
 Vrunda Patel - panchasaravb@gmail.com
