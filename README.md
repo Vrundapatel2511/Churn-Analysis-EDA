@@ -28,9 +28,5 @@ Customer churn analysis is a data-driven project that focuses on understanding a
 - Matplotlib
 - Scikit-learn
 
-
-# Project Status
-This project is complete and has provided valuable insights into customer churn within the dataset. Further actions and strategies can be developed based on these insights to improve customer retention.
-
 # Contact
 Vrunda Patel - panchasaravb@gmail.com
