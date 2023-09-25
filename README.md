@@ -22,14 +22,12 @@ Customer churn analysis is a data-driven project that focuses on understanding a
 - Analyzing the distribution of gender, payment methods, contract types, tech support, and senior citizen status for churned and non-churned customers.
 
 # Python libraries
-
 - Pandas
 - Seaborn
 - Matplotlib
 - Scikit-learn
 
 # Key Features
-
 - Data preprocessing and cleaning for accurate analysis.
 - Comprehensive exploratory data analysis (EDA) to uncover insights.
 - Utilization of data visualization to communicate findings effectively.
